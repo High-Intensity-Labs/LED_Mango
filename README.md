@@ -1,7 +1,7 @@
 # LED_Mango
 Open LED Driver
 
-![LED Mango](LED_Mango_Image.png)
+![LED Mango](diagrams/LED_Mango_Render.png)
 
 ## Microcontroller
 * ESP32-C3-MINI
@@ -37,6 +37,18 @@ create a table for md
 
 ## Strapping Pins
 The LED Mango includes a USB to UART adapter for plug and play programming and debugging. You will need to hold the boot button during a reset to enter the bootloader.
+
+## Getting Started with the Arduino IDE
+1. Install the Arduino IDE
+2. Add the ESP32 board support package to the Arduino IDE
+3. Select `ESP32C3 Dev Module` as the board
+4. Select the correct Port
+5. Hold the Boot button during a power cycle to enter programming mode
+6. Upload your sketch
+![LED Mango Arduino Programming Screenshot](diagrams/Arduino-Programming-Screenshot.png)
+
+## Diagram
+![LED Mango](diagrams/LEDMangoDiagram.png)
 
 ## Author
 High Intensity Labs, LLC
