@@ -18,7 +18,8 @@ Open LED Driver
 * USB-C rated up to 3A
 * Barrel Jack (2mm 6.4mm) rated up to 4A
 * Smart Priority Power Switching
-* LED Logic Level is 5V
+* 5V LED Logic Level
+* 3.3V GPIO Logic Level
 
 ## Pinout
 
