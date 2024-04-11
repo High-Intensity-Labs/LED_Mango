@@ -1,6 +1,7 @@
 # LED_Mango
 Open LED Driver
 
+![LED Mango](diagrams/LEDMangoDiagram.png)
 ![LED Mango](diagrams/LED_Mango_Render.png)
 
 ## Microcontroller
@@ -14,8 +15,8 @@ Open LED Driver
 
 ## Specifications
 * 5V LED Strips Supported (WS2812B, SK6812, Dotstar, Neopixel, etc.)
-* USB-C Power up to 3A
-* Barrel Jack Power up to 5A
+* USB-C rated up to 3A
+* Barrel Jack (2mm 6.4mm) rated up to 4A
 * Smart Priority Power Switching
 * LED Logic Level is 5V
 
@@ -47,9 +48,6 @@ The LED Mango includes a USB to UART adapter for plug and play programming and d
 5. Hold the Boot button during a power cycle to enter programming mode
 6. Upload your sketch
 ![LED Mango Arduino Programming Screenshot](diagrams/Arduino-Programming-Screenshot.png)
-
-## Diagram
-![LED Mango](diagrams/LEDMangoDiagram.png)
 
 ## Author
 High Intensity Labs, LLC
