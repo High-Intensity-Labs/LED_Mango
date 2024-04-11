@@ -2,7 +2,6 @@
 Open LED Driver
 
 ![LED Mango](diagrams/LEDMangoDiagram.png)
-![LED Mango](diagrams/LED_Mango_Render.png)
 
 ## Microcontroller
 * ESP32-C3-MINI
@@ -38,6 +37,8 @@ Open LED Driver
 | IO18 | GPIO18 |
 | IO19 | GPIO19 |
 
+![LED Mango](diagrams/LED_Mango_Render.png)
+
 ## Strapping Pins
 The LED Mango includes a USB to UART adapter for plug and play programming and debugging. You will need to hold the boot button during a reset to enter the bootloader.
 
@@ -50,5 +51,8 @@ The LED Mango includes a USB to UART adapter for plug and play programming and d
 6. Upload your sketch
 ![LED Mango Arduino Programming Screenshot](diagrams/Arduino-Programming-Screenshot.png)
 
-## Author
+## Product Page
+[LED Mango](https://highintensitylabs.com/products/led-mango)
+
+## Made by
 High Intensity Labs, LLC
