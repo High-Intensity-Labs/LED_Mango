@@ -14,12 +14,13 @@ Open LED Driver
 
 ## Specifications
 * 5V LED Strips Supported (WS2812B, SK6812, Dotstar, Neopixel, etc.)
-* 4.5Amp Power MUX
+* USB-C Power up to 3A
+* Barrel Jack Power up to 5A
+* Smart Priority Power Switching
 * LED Logic Level is 5V
 
 ## Pinout
-STEMMA QT, QWIIC, and Grove I2C - GPIO01 GPIO10
-create a table for md
+
 | Pin | Function |
 | --- | --- |
 | GND | Common Ground |
