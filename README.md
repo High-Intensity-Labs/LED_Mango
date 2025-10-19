@@ -16,7 +16,7 @@ Open LED Driver
 * 5V LED Strips Supported (WS2812B, SK6812, Dotstar, Neopixel, etc.)
 * STEMMA QT / QWIIC Connector header for I2C sensors
 * USB-C rated up to 3A
-* Barrel Jack (2mm 6.4mm) rated up to 4A
+* Barrel Jack (2mm 6.4mm) rated up to 4.5A
 * Smart Priority Power Switching
 * 5V LED Logic Level
 * 3.3V GPIO Logic Level
